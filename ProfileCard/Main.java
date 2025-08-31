@@ -2,8 +2,9 @@ public class Main {
     public static void main(String[] args) {
         profileHeader(30);
         userProfile Barci = new userProfile("John Paul Barcinilla", "BSIT-102", "Don't compare your chapter 1 to someone who finished a system", "Minute burger + fries = heaven");
+        userProfile cat = new userProfile("Cat", "Feline", "Meow", "I love naps");
         Barci.displayProfile();
-        symbolicArt();
+        cat.displayProfile();
     }
 
     private static void profileHeader(int stars) {
