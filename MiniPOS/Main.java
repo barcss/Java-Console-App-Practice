@@ -76,7 +76,7 @@ Members:
     Manuel, Allan Cedric
     Aguas, Albert
     Santos, Jose
-    Cirvo, Catherine
-    Niel, Miro
+    Ciervo, Catherine
+    Miro, Niel
     Tangtang, Monique
  */
